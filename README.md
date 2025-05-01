@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: danimangulo@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to read about planets, the sun and the moon.
+- ⚡ Fun fact: I love to read about planets
 
 <!---
 danibooux/danibooux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
